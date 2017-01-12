@@ -1,0 +1,28 @@
+#DepotTemoignage{
+	float:left;
+	
+}
+.Block{
+	border: 2px solid;
+	margin-top:5px;
+	
+}
+.etpromo{
+
+	}
+.parcours{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #286090;
+}
+.info{
+		border-top: 2px solid;
+		
+}
+.allBlock{
+	margin-top:45px;
+}
+
+.infotem{
+
+}

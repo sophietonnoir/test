@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.lien_parcours{
+	text-align : center;
+	margin-top:90px;
+}
+.href_button{
+	width:365px;
+	height:auto ;
+	min-height:117px ;
+	margin:10px;
+}
+
+.element {
+	margin-top: 15vh; /* poussé de la hauteur de 15 vers le bas*/
+}
