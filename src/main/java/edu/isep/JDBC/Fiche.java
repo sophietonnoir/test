@@ -17,7 +17,6 @@ public class Fiche {
 	private String promotion;
 	private String statut;
 	private long userId;
-        public String test;
 
 	public Fiche(){	
 	}
@@ -141,9 +140,7 @@ public class Fiche {
 		this.cursus = cursus;
 	}
 
-	public long getUserId() {
-		return userId;
-	}
+
 
 	public void setUserId(int userId) {
 		this.userId = userId;
