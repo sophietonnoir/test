@@ -17,6 +17,7 @@ public class Fiche {
 	private String promotion;
 	private String statut;
 	private long userId;
+        public String test;
 
 	public Fiche(){	
 	}
