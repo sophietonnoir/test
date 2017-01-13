@@ -140,9 +140,7 @@ public class Fiche {
 		this.cursus = cursus;
 	}
 
-public long getUserId() {
-		return userId;
-	}
+
 
 	public void setUserId(int userId) {
 		this.userId = userId;
